@@ -1,2 +1,8 @@
-# Bat-To-Exe-Converter-64-Bit-
-Bat To Exe Converter (64 Bit)
+# Bat-To-Exe-Converter-64-Bit
+Bat To EXE Converter can help you create executable files from batch files, which are composed of a series of DOS instructions. The tool is extremely straightforward and consequently appropriate for any kind of user. However, it is important that you know the syntax of the source code, except probably when you intend to import already existing BAT files.
+
+To start a new session, you should write the desired commands or import the lines from BAT or CMD files. It is great that the program comes with a full-fledged text editor, which lets you find and replace a given string or go straight to a certain line. Fortunately, it supports extended commands. Then, it is possible to convert it to an executable file, with the support of both 32 and 64-bit programs. However, the real power of the tool is related to its additional features. For instance, you can protect the output program with a password and even encrypt it. Other options include creating visible or invisible applications and requesting administrator privileges. Not only that, you can even embed other files within the executable.
+
+Luckily, the resulting file can be customized in many ways. In this respect, you can use your favorite icon as well as include information about the file, such as product version, company, and internal name. Similarly, you can use a copyright notice.
+
+In conclusion, Bat to Exe Converter is probably the best choice for turning BAT files into executables. More advanced users can also benefit from using the program from the command line as well. The product is, luckily, free for commercial and non-commercial use.
